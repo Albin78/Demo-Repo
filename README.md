@@ -1,6 +1,6 @@
 This is a demo readme.md file
 
-Created by Albin Shabu
+Created by Albin78
 
 Only two text files for demo academic purpose
 
