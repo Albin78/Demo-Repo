@@ -6,5 +6,3 @@ email: albinshabu960@gmail.com
 
 Two text files for academic purpose.
 
-Both files contain irrelevant content.
-
